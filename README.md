@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**pedroleal02/pedroleal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedro, a science computer student based in Brazil.
 
-Here are some ideas to get you started:
+I mostly work on frontend stuff - CSS3, HTML5, JavaScript, React. But do know 
+the basics of Python and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have some video editing skills on CapCut and Premiere.
+
+This is a fresh profile where I'll be uploading some smaller projects, experiments and things I'm currently working on.
+
+## A bit about me
+
+* Drawn to the puzzle side of programming
+* Always in the middle of learning something new
+* Turning ideas into projects, one commit at a time
