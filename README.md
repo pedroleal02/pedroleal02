@@ -2,8 +2,8 @@
 
 I'm Pedro, a science computer student based in Brazil.
 
-I mostly work on frontend stuff - CSS3, HTML5, JavaScript, React. But do know 
-the basics of Python and Java.
+I like to experiment across the entire development spectrum. I’m experienced in crafting user interfaces with HTML5,
+CSS3, JavaScript, and React, but I’m just as comfortable diving into the logic and fundamentals of Python and Java.
 
 I also have some video editing skills on CapCut and Premiere.
 
